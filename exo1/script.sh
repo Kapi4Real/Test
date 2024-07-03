@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo "script fomctionelle"
+echo "vim main.c"
